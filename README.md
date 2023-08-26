@@ -2,8 +2,9 @@
 
 
 <p><em>Este repositório contém o código fonte para uma biblioteca na qual eu desenvolvi para verificar a existência de links em um Markdown e retornar quais estão funcionando, e quais não estão.</em></p>
+<p><em>Obs: também adicionei um index.html para facilitar a criação dos markdowns.</em></p>
 
-<h2>:desktop: Tecnologias Utilizadas:</h2>
+<h2>🖥️ Tecnologias Utilizadas:</h2>
   <ul>
       <li>JavaScript</li>
       <li>Visual Studio Code</li>
@@ -12,13 +13,13 @@
    </ul>
 
 
-![Screen](https://cdn.discordapp.com/attachments/1129425322685767680/1143194336775905431/image.png)
+![Screen](https://cdn.discordapp.com/attachments/1129425322685767680/1145020112982790265/image.png)
 
 <h2>Domínio para Acesso:</h2>
 <ul>
 <li> https://jogo-do-numero-secreto-delta.vercel.app/</li>
 </ul>
 
- ## :mobile_phone: Redes Sociais:
+ ## 📱 Redes Sociais:
 * Meu [GitHub](https://github.com/ViniciusTunes)
 * Meu [Instagram](https://www.instagram.com/yng.Vinicius/)
