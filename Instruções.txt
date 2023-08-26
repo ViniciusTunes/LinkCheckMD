@@ -1,0 +1,1 @@
+Coloquei dentro da pasta, o arquivo INDEX.HTML apenas para facilitar a criação dos .md (MarkDowns) automaticamente.
