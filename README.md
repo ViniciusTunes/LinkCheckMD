@@ -15,11 +15,6 @@
 
 ![Screen](https://cdn.discordapp.com/attachments/1129425322685767680/1145020112982790265/image.png)
 
-<h2>Domínio para Acesso:</h2>
-<ul>
-<li> https://jogo-do-numero-secreto-delta.vercel.app/</li>
-</ul>
-
  ## 📱 Redes Sociais:
 * Meu [GitHub](https://github.com/ViniciusTunes)
 * Meu [Instagram](https://www.instagram.com/yng.Vinicius/)
